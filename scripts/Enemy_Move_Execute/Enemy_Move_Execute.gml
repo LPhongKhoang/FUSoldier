@@ -1,0 +1,1 @@
+Enemy_Move(ObjPlayer1);
