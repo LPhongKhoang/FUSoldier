@@ -8,6 +8,13 @@ if (Hp<=0)
 	var CurrentY = ObjMonster1_idle.y
 	instance_destroy(ObjMonster1_idle);
 	instance_create_depth(CurrentX,CurrentY,0,ObjMonster1_die);
-	ObjPlayer1.Exp += 100;
-	ObjPlayer1.Money += 10;
+	if (instance_exists(ObjPlayer1))
+	{
+		ObjPlayer1.Exp += 100;
+		ObjPlayer1.Money += 10;
+	} else if (instance_exists(ObjPlayer2))
+	{
+		ObjPlayer2.Exp += 100;
+		ObjPlayer2.Money += 10;
+	}
 }

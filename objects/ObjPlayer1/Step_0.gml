@@ -34,9 +34,9 @@ if (mouse_check_button(mb_left)) && (firingdelay < 0) && (Mana>=SKILL1)
 	Mana -= SKILL1;
 	recoil = 4;
 	firingdelay = 5;
-	with (instance_create_layer(x,y,"Bullets",ObjBulletPistol))
+	with (instance_create_layer(x,y+25,"Bullets",ObjBulletPistol))
 	{
-		direction = ObjPistol.image_angle + random_range(-3,3);
+		direction = ObjPistol.image_angle + random_range(-5,5);
 		image_angle = direction;
 		Dam += ObjPlayer1.Dam + ObjPistol.Dam;
 	}
@@ -47,7 +47,7 @@ if (mouse_check_button(mb_right)) && (firingdelay < 0) && (Mana>=SKILL2)
 	Mana -= SKILL2;
 	recoil = 4;
 	firingdelay = 5;
-	bullet = instance_create_layer(x,y,"Bullets",ObjBulletPistol);
+	bullet = instance_create_layer(x,y+25,"Bullets",ObjBulletPistol);
 	with (bullet)
 	{
 		direction = ObjPistol.image_angle ;

@@ -1,5 +1,5 @@
 x = ObjPlayer1.x;
-y = ObjPlayer1.y + 10;
+y = ObjPlayer1.y + 25;
 
 image_angle = point_direction(x,y,mouse_x,mouse_y);
 
