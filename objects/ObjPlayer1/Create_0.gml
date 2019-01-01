@@ -4,7 +4,7 @@ XAxis = 0;
 YAxis = 0;
 
 //Set speed
-Speed = 7;
+Speed = 10;
 
 //Health
 MaxHP = 100;
