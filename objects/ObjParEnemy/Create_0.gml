@@ -3,4 +3,11 @@
 TargetX = 0;
 TargetY = 0;
 Hp = 100;
-State_Move = Enemy_Move_Execute;
+
+State = PATROL;
+path = path_add();
+DistancePatrol = 1000;
+DistanceChase = 500;
+DistanceAttack =100;
+
+

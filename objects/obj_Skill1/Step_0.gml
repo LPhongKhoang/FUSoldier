@@ -1,0 +1,1 @@
+DistanceCanGo(xstart,ystart,DistanceMax);

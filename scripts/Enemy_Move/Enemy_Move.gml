@@ -1,7 +1,8 @@
-if (instance_exists(argument[0]))
+var object =  argument[0];
+if (instance_exists(object))
 {
-	TargetX = argument[0].x - x;
-	TargetY = argument[0].y - y;
+	TargetX = object.x - x;
+	TargetY = object.y - y;
 }
 else
 {

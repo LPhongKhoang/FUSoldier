@@ -5,13 +5,23 @@
     "name": "ObjMonster1_idle",
     "eventList": [
         {
-            "id": "02594c31-1b4f-438c-af5f-19a8ca455fd6",
+            "id": "1724e863-d613-4704-8846-7970e93a523a",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "ded16f57-84f1-454e-af85-894acc61f362",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
+            "eventtype": 0,
+            "m_owner": "efc428cf-a37a-4168-8d43-6b71b4f91698"
+        },
+        {
+            "id": "5c442a83-f35d-486a-bdb6-0893d980c3d7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
             "m_owner": "efc428cf-a37a-4168-8d43-6b71b4f91698"
         }
     ],

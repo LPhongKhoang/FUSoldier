@@ -38,6 +38,9 @@ NumEnergy = 0;
 //Cooldown
 firingdelay = 0;
 recoil = 0;
+//Change Skill
+CurrentSkillIndex = 1;
+AmountSkillMax = 3;
 
 
 

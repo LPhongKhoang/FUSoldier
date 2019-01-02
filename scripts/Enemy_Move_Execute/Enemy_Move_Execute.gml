@@ -1,1 +1,1 @@
-Enemy_Move(ObjPlayer1);
+Enemy_Move_AI(ObjPlayer1.x, ObjPlayer1.y,3);
