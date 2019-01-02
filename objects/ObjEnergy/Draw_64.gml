@@ -1,0 +1,1 @@
+draw_sprite(EnergyLogo,0,x,y);

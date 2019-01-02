@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "0ff91141-a9ba-4b30-ab5e-e6d7106cb669",
+            "Value": {
+                "id": "caee0817-7afc-4cf6-b709-0961dabd802a",
+                "resourcePath": "views\\0ff91141-a9ba-4b30-ab5e-e6d7106cb669.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "11399367-e02f-4713-b868-ba76b59ee495",
             "Value": {
                 "id": "90204dbb-2d91-4f46-a975-62168b2aa56c",
@@ -495,6 +503,14 @@
             }
         },
         {
+            "Key": "3adcf4f2-bc6a-4e86-b2d0-f6f713675385",
+            "Value": {
+                "id": "1369af69-eb6f-4b78-8aa4-1d5979504afb",
+                "resourcePath": "objects\\Alarm0\\Alarm0.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3b6f9176-2acf-45e8-b055-4d9d9719800d",
             "Value": {
                 "id": "c8a73c94-b6d7-49a5-87c5-48f732edf3cd",
@@ -620,6 +636,14 @@
                 "id": "2603fe0c-d5ef-40a9-9069-208a1f0b2930",
                 "resourcePath": "sprites\\BloodBlade\\BloodBlade.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "491d544d-86e7-4fde-a72a-110a12c37c73",
+            "Value": {
+                "id": "98c2d89e-02aa-48c0-891f-e6258522f790",
+                "resourcePath": "objects\\ObjGame\\ObjGame.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -842,7 +866,7 @@
             "Key": "705e7da8-ff64-4ac8-9148-7041b6513e7d",
             "Value": {
                 "id": "c0ff3c0f-cc7a-459b-a02a-29ad29751bc2",
-                "resourcePath": "objects\\ObjExperience\\ObjExperience.yy",
+                "resourcePath": "objects\\ObjExp\\ObjExp.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1007,6 +1031,14 @@
             }
         },
         {
+            "Key": "8668b036-15dd-4134-bb89-0f16e20431fc",
+            "Value": {
+                "id": "a206158f-0d6d-444c-bef5-08e4240d097a",
+                "resourcePath": "sprites\\AlarmLogo\\AlarmLogo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "88e1ce02-0c4e-4254-932d-f55aa616b79c",
             "Value": {
                 "id": "3a9ba440-a860-47f2-b997-a5852c9b4855",
@@ -1098,7 +1130,7 @@
             "Key": "9f9074fb-774c-4472-b512-cfcca2452a51",
             "Value": {
                 "id": "375f92dd-d142-4865-a810-ec2829e0d82b",
-                "resourcePath": "objects\\ObjExp\\ObjExp.yy",
+                "resourcePath": "objects\\ObjExpBar\\ObjExpBar.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1399,6 +1431,14 @@
             }
         },
         {
+            "Key": "d0f726a2-b3db-40eb-8a3f-c5637d8af0e1",
+            "Value": {
+                "id": "65cd642d-1fce-452a-98c7-596742cceaa0",
+                "resourcePath": "views\\d0f726a2-b3db-40eb-8a3f-c5637d8af0e1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "d3f743cd-f1e7-441e-bc3b-5e1dfbfc41a0",
             "Value": {
                 "id": "cd114f72-3126-421c-b229-7c31120a93e9",
@@ -1559,6 +1599,14 @@
             }
         },
         {
+            "Key": "e9fff701-b786-4f52-b907-a2f299da5f37",
+            "Value": {
+                "id": "d77e6670-9a95-4aa6-a303-9b1a1074ba92",
+                "resourcePath": "objects\\Alarm1\\Alarm1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "eac465f8-61ea-49d4-9a9a-8ab76471e870",
             "Value": {
                 "id": "86e950b2-c692-4799-8ae8-8b0da4075c55",
@@ -1676,6 +1724,14 @@
                 "id": "bf664270-fb4d-4a0e-9d38-302493504c1e",
                 "resourcePath": "sprites\\LongHandedAxe\\LongHandedAxe.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f77a5266-d417-414e-988f-91b4b39fba1d",
+            "Value": {
+                "id": "88251cfa-2d3e-457c-bd56-fcc7f60dedd5",
+                "resourcePath": "objects\\Alarm2\\Alarm2.yy",
+                "resourceType": "GMObject"
             }
         },
         {

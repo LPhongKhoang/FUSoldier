@@ -39,7 +39,6 @@ NumEnergy = 0;
 firingdelay = 0;
 recoil = 0;
 alarm[0] = room_speed * CLOCK0;
-TextDegree = image_angle;
 alarm[1] = room_speed * CLOCK1;
 
 

@@ -98,7 +98,7 @@ if mouse_check_button(mb_middle)
 	}
 }
 //check increase speed
-if keyboard_check_pressed(ord("F"))
+if keyboard_check_pressed(ord("F")) && alarm[2]<0
 {
 	if (alarm[1]<0)
 	{

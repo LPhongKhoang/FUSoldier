@@ -1,10 +1,19 @@
 {
-    "id": "705e7da8-ff64-4ac8-9148-7041b6513e7d",
+    "id": "491d544d-86e7-4fde-a72a-110a12c37c73",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "ObjExperience",
+    "name": "ObjGame",
     "eventList": [
-        
+        {
+            "id": "0d41cd74-0ab5-4afa-8db3-8ea6c88df6f0",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "491d544d-86e7-4fde-a72a-110a12c37c73"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "8465e847-e538-4d28-9b2f-915fb2970fa7",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

@@ -5,16 +5,6 @@
     "name": "ObjHealthBar",
     "eventList": [
         {
-            "id": "6812aab4-909b-487d-adf9-375b48035b1f",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "1cce3353-be68-4a08-bdd3-f4fdb3b4654f"
-        },
-        {
             "id": "a7a5c72b-b691-4f79-aa80-5cb05ca9f955",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -22,6 +12,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
+            "m_owner": "1cce3353-be68-4a08-bdd3-f4fdb3b4654f"
+        },
+        {
+            "id": "39af212e-f241-44b3-9335-90a3a380456c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 64,
+            "eventtype": 8,
             "m_owner": "1cce3353-be68-4a08-bdd3-f4fdb3b4654f"
         }
     ],
