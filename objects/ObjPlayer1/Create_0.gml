@@ -41,6 +41,9 @@ recoil = 0;
 alarm[0] = room_speed * CLOCK0;
 alarm[1] = room_speed * CLOCK1;
 
+CurrentSkillIndex = 1;
+AmountSkillMax = 3;
+
 
 
 

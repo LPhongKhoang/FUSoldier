@@ -4,26 +4,7 @@
     "mvc": "1.0",
     "name": "ObjParEnemy",
     "eventList": [
-        {
-            "id": "dfc71c2c-0a56-479b-9b40-a8d9e6eeeaae",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "8a53dfc4-a62f-4b76-b246-b8d30e89a1d9"
-        },
-        {
-            "id": "41648a96-e78b-4ac3-8cc7-8ea4e93a676f",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "8a53dfc4-a62f-4b76-b246-b8d30e89a1d9"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

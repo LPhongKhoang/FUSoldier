@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "ObjMonster4_idle",
     "eventList": [
-        
+        {
+            "id": "578ebf32-76ae-47f6-a8c6-0b3a2393b128",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "0490c91e-04f3-4ad0-8d24-f8bdfa256ba1"
+        },
+        {
+            "id": "0f51ff28-f804-481e-8f51-1eea6e5370cb",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "0490c91e-04f3-4ad0-8d24-f8bdfa256ba1"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

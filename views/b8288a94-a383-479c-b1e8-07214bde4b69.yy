@@ -4,8 +4,8 @@
     "mvc": "1.1",
     "name": "b8288a94-a383-479c-b1e8-07214bde4b69",
     "children": [
-        "ded16f57-84f1-454e-af85-894acc61f362",
-        "ce6e17d0-cd0a-4fe5-9d95-7aed3ddb8edd"
+        "4c3c567a-8a00-4856-99a4-a29fa0e7730f",
+        "a92c874b-fce3-4e61-afc1-c62d06979829"
     ],
     "filterType": "GMObject",
     "folderName": "ObjBullet",
