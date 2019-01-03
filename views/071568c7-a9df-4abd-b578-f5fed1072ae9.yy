@@ -8,7 +8,7 @@
         "5b8a8d2a-2959-46f4-845d-20110b2f75f6"
     ],
     "filterType": "GMSprite",
-    "folderName": "viewPlayer1",
+    "folderName": "viewPlayer3",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

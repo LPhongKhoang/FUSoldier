@@ -1,13 +1,5 @@
-x = ObjPlayer1.x;
-y = ObjPlayer1.y + 25;
-
-image_angle = point_direction(x,y,mouse_x,mouse_y);
-
-if (image_angle > 90) && (image_angle < 270)
+if (instance_exists(ObjShopLogo) && ItemChoosen = true)
 {
-	image_yscale = -1;
-}
-else 
-{
-	image_yscale = 1;
-}
+	Weapon_Rotate(ObjPlayer1);
+} 
+else if (!instance_exists(ObjShopLogo)) Weapon_Rotate(ObjPlayer1);
