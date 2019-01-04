@@ -2,16 +2,49 @@
 // You can write your code in this editor
 XAxis = 0;
 YAxis = 0;
-Speed = 7;
 
-Direction = DOWN;
+//Set speed
+Speed = 10;
+
+//Health
+MaxHP = 80;
+HP = MaxHP;
+
+//Mana
+MaxMana = 130;
+Mana =20;
+
+//Damage
+Dam = 2;
+
+//Coin
+Money = 100;
+
+//Level
+Level = 1;
+Exp = 600;
+MaxExp = 1000;
+
+//Move
 Action = IDLE;
 
-View[HORIZONTAL,IDLE] = viewPlayer2_idle;
-View[HORIZONTAL,MOVE] = viewPlayer2_run;
+View[IDLE] = viewPlayer4_idle;
+View[MOVE] = viewPlayer4_run;
 
-View[UP,IDLE] = viewPlayer2_idle;
-View[UP,MOVE] = viewPlayer2_run;
+//Number of Blood, Energy
+NumBlood = 0;
+NumEnergy = 0;
 
-View[DOWN,IDLE] = viewPlayer2_idle;
-View[DOWN,MOVE] = viewPlayer2_run;
+//Cooldown
+firingdelay = 0;
+recoil = 0;
+alarm[0] = room_speed * CLOCK0;
+alarm[1] = room_speed * CLOCK1;
+
+CurrentSkillIndex = 1;
+AmountSkillMax = 3;
+
+
+
+
+

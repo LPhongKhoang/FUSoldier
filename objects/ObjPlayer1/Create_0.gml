@@ -15,7 +15,7 @@ MaxMana = 100;
 Mana =20;
 
 //Damage
-Dam = 1;
+Dam = 2;
 
 //Coin
 Money = 100;
@@ -42,7 +42,8 @@ alarm[0] = room_speed * CLOCK0;
 alarm[1] = room_speed * CLOCK1;
 
 CurrentSkillIndex = 1;
-AmountSkillMax = 4;
+AmountSkillMax = 3;
+
 
 
 
