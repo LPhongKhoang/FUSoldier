@@ -98,6 +98,19 @@ if (mouse_check_button(mb_right)) && (firingdelay < 0)
 	       
 		}
 	}
+	if(SKILL5 < Mana && CurrentSkillIndex ==4)
+	{
+		Mana -= SKILL5;
+	    recoil = 4;
+	    firingdelay = 5;
+		with(instance_create_layer(x,y,"Bullets",obj_Skill3))
+		{
+			direction = ObjPistol.image_angle + random_range(-3,3);
+			Dam += ObjPlayer1.Dam + ObjPistol.Dam;
+			image_angle = direction -90;
+		}
+	}
+
 
 }
 //turn weapon

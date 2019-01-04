@@ -1,1 +1,1 @@
-DistanceCanGo(xstart,ystart,MaxDistance)
+LimitDistance(xstart,ystart,MaxDistance);

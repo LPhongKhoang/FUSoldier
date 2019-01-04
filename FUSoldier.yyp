@@ -74,7 +74,7 @@
             "Key": "0237ab64-ca46-4363-b055-4b3828ac8898",
             "Value": {
                 "id": "d33c810d-f551-4fb5-b76b-312e4e29d307",
-                "resourcePath": "scripts\\DistanceCanGo\\DistanceCanGo.yy",
+                "resourcePath": "scripts\\LimitDistance\\LimitDistance.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -284,6 +284,14 @@
                 "id": "5152780b-2e3d-4897-a24c-80c5764a0ef9",
                 "resourcePath": "views\\100f8359-a206-488a-861e-b7eaca2a7a5e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1012d637-a7b6-4625-ac6d-06c88ffb585d",
+            "Value": {
+                "id": "aa0e3357-279f-43f0-88ba-1bd62bd411a3",
+                "resourcePath": "objects\\obj_Skill3\\obj_Skill3.yy",
+                "resourceType": "GMObject"
             }
         },
         {

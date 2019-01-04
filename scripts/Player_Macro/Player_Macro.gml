@@ -6,6 +6,7 @@
 #macro SKILL2 0
 #macro SKILL3 1
 #macro SKILL4 1
+#macro SKILL5 1
 
 #macro TELEPORT 0
 //Time Countdown
