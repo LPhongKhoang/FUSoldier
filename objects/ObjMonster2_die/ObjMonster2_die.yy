@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "ObjMonster2_die",
     "eventList": [
-        
+        {
+            "id": "8c50f46c-1a52-4157-a355-361b8746f647",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "acd3117e-3305-495f-aa9c-6c088c58fd93"
+        },
+        {
+            "id": "253a3483-78cf-4939-830d-c16df60a5e41",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "acd3117e-3305-495f-aa9c-6c088c58fd93"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

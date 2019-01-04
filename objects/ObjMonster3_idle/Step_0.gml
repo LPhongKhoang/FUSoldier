@@ -67,7 +67,8 @@ if(Distance<DistanceAttack)
 if (Hp<=0)
 {
      instance_destroy();
-
+     Room1Controll.CurrentEnemy[Room1Controll.Round] --;
+	 Room1Controll.TotalEnemyAlive[Room1Controll.Round] --;
 	 ObjPlayer1.Exp += 100;
 	 ObjPlayer1.Money += 10;	
 	    

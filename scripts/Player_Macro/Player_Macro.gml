@@ -4,9 +4,9 @@
 //Skill
 #macro SKILL1 0
 #macro SKILL2 0
-#macro SKILL3 1
-#macro SKILL4 1
-#macro SKILL5 1
+#macro SKILL3 0
+#macro SKILL4 0
+#macro SKILL5 0
 
 #macro TELEPORT 0
 //Time Countdown

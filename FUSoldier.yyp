@@ -1351,6 +1351,14 @@
             }
         },
         {
+            "Key": "4f30d804-a997-462d-bb9d-84216ad9f784",
+            "Value": {
+                "id": "02a0504e-da20-46c6-ac98-6c82d13eb29b",
+                "resourcePath": "objects\\SpawnPosMonster1\\SpawnPosMonster1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4f46fac2-109a-4afd-8c3c-13314103f5b2",
             "Value": {
                 "id": "2bf30e63-9e1c-4cae-9a2e-16eab8ef5074",
@@ -2447,6 +2455,14 @@
             }
         },
         {
+            "Key": "932828e1-5c6a-4f5b-81a9-1162a2ad805d",
+            "Value": {
+                "id": "44c7ca07-b916-4748-b03f-cdb942ee1b03",
+                "resourcePath": "objects\\Room1Controll\\Room1Controll.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
             "Value": {
                 "id": "6766b150-ddd4-44a0-9ae7-f41ae66c0bee",
@@ -2543,6 +2559,14 @@
             }
         },
         {
+            "Key": "9a45631a-9d95-4a61-818e-f4a8abf9d730",
+            "Value": {
+                "id": "f23800f6-f323-4146-82b6-4b428e9fa413",
+                "resourcePath": "objects\\SpawnPosMonster3\\SpawnPosMonster3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9b73e175-85c3-4fdd-806c-51f67fe89dde",
             "Value": {
                 "id": "38443982-e46d-4183-a926-4da255da4b79",
@@ -2596,6 +2620,14 @@
                 "id": "5fbb48e0-d140-41a3-8d34-8ff2e0a9af1a",
                 "resourcePath": "scripts\\score__\\score__.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "9ea95d1e-8df0-41be-9418-3e413ed09d44",
+            "Value": {
+                "id": "354fa937-ea68-435e-b669-aad182ade098",
+                "resourcePath": "rooms\\TestSpawnEnemy\\TestSpawnEnemy.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -2852,6 +2884,14 @@
                 "id": "60383a85-ccfe-4593-9642-cca018543e61",
                 "resourcePath": "scripts\\TPList\\TPList.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "abd3f4a5-30a1-4bcc-a1e4-348b6f463bd1",
+            "Value": {
+                "id": "bbf0f1c6-6520-4801-813d-ab7828cd042a",
+                "resourcePath": "views\\abd3f4a5-30a1-4bcc-a1e4-348b6f463bd1.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -3335,6 +3375,14 @@
             }
         },
         {
+            "Key": "cf280761-3ae3-4d43-b04b-1b85cdcfb8ac",
+            "Value": {
+                "id": "4d6919a7-45f8-4a67-a708-6c232db73bec",
+                "resourcePath": "scripts\\Enemy_Macro\\Enemy_Macro.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "cf98eab7-6970-40d6-b159-df848bc28731",
             "Value": {
                 "id": "8ae2e349-aa59-4bf7-ad6f-5ccb50dfc153",
@@ -3727,6 +3775,14 @@
             }
         },
         {
+            "Key": "e7369420-0bfe-4322-bcae-0fee5ed61560",
+            "Value": {
+                "id": "88de5051-95f3-43a0-a671-ae0020e82adf",
+                "resourcePath": "objects\\SpawnPosMonster2\\SpawnPosMonster2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e7523ce1-0798-4330-b9eb-1309512d193f",
             "Value": {
                 "id": "306dff48-96ec-49c3-997a-494ff5b7e2de",
@@ -3943,6 +3999,14 @@
             }
         },
         {
+            "Key": "f4da4722-b9d6-45b0-be91-1895f1628c08",
+            "Value": {
+                "id": "00d60daf-1617-4b3a-95ab-4c90bc480cd5",
+                "resourcePath": "objects\\SpawnPosMonster4\\SpawnPosMonster4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f524440c-3d51-472c-acf4-c6e3e129c99f",
             "Value": {
                 "id": "7392ae16-8c47-4267-9e1b-20176869193b",
@@ -4140,6 +4204,7 @@
         "eee7751a-c9e9-453d-b618-fbe323971927",
         "9d366426-9ad1-4fa8-accb-d123430b338c",
         "a0b3099f-5ba0-48a0-b37a-89abbcdd88a0",
+        "cf280761-3ae3-4d43-b04b-1b85cdcfb8ac",
         "432420df-efae-4b76-8bf5-8319ec078547",
         "4a6750a7-b621-40a6-addf-c025ff0e9f69",
         "a2f72d18-be7c-4993-be27-718e6ceedb00",
