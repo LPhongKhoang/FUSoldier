@@ -10,7 +10,7 @@ enum CamMode {
 	move_to_mouse_peek
 }
 // Current mode
-Mode = CamMode.follow_mouse_border;
+Mode = CamMode.follow_mouse_peek;
 // Current Object Following
 ObjFollowing = ObjPlayer1;
 

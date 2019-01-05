@@ -1743,6 +1743,14 @@
             }
         },
         {
+            "Key": "5886097d-1816-43e3-8cc2-016bfc99d5bc",
+            "Value": {
+                "id": "320c593c-6c06-46ea-95dc-306f51e77a2b",
+                "resourcePath": "objects\\ObjAlphaWall\\ObjAlphaWall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "589cdb26-6228-447e-bfe1-3637203704b3",
             "Value": {
                 "id": "1a299110-5b66-45cf-9432-7acfda53e1e5",
@@ -1915,6 +1923,14 @@
             "Value": {
                 "id": "f4b49fde-a374-4112-91b4-21c823f1634b",
                 "resourcePath": "objects\\ObjTree\\ObjTree.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "636d6f6e-8e8f-492c-bfac-94f68288d682",
+            "Value": {
+                "id": "e1cc47e0-ed7c-4336-850e-cb1295021ffc",
+                "resourcePath": "objects\\ObjMapOpener\\ObjMapOpener.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -2204,6 +2220,14 @@
                 "id": "c78afe83-6c66-432a-9de3-966324a450d4",
                 "resourcePath": "views\\72349b8b-042f-4440-bb49-62cae6f3e0b1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "72936536-e163-43e5-9217-7a0f48e39f43",
+            "Value": {
+                "id": "11839875-29e9-452d-a4b2-3d9ef03e1f62",
+                "resourcePath": "objects\\ObjShopIcon\\ObjShopIcon.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -3372,6 +3396,14 @@
                 "id": "cd6b5d3b-e263-4faf-921e-098fdc9c9a50",
                 "resourcePath": "objects\\obj_Skill2\\obj_Skill2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b49c493a-30e5-477b-afcc-fbba33f93a4d",
+            "Value": {
+                "id": "b504d949-a18d-4df1-949b-0e4a40316b48",
+                "resourcePath": "sprites\\Square\\Square.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -4628,6 +4660,14 @@
                 "id": "34a55e36-9a07-411c-b553-d4ac61461074",
                 "resourcePath": "scripts\\EaseInOutCubic\\EaseInOutCubic.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "fc90fc77-6a45-44a2-8fe2-4b94f3babd15",
+            "Value": {
+                "id": "afbf1ad0-106a-49fd-9aa0-df2295ce86d1",
+                "resourcePath": "sprites\\Penrose\\Penrose.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
