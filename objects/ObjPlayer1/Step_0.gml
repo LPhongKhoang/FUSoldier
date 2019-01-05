@@ -1,3 +1,4 @@
+if (!instance_exists(ObjArrowLeft)){
 //Move in four directions when pressing arrow keys.
 var _move = 0;
 if keyboard_check(ord("A")) && place_free(x-Speed,y) 
@@ -152,4 +153,5 @@ if keyboard_check_pressed(ord("F")) && alarm[2]<0
 		Speed += INCSPEED;
 		alarm[2] = room_speed * CLOCK2;
 	}
+}
 }

@@ -1,6 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
-if (!global.pause) exit;
+if (!global.pause)
+{
+	exit;
+}
 
 var gwidth = global.view_width, gheight = global.view_height;
 
