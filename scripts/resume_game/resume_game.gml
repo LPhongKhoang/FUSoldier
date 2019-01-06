@@ -1,1 +1,9 @@
-show_debug_message("resume game");
+if not global.pause 
+{
+	global.pause = true;
+	instance_deactivate_all(true);
+} else
+{
+	global.pause = false;
+	instance_activate_all();
+}
