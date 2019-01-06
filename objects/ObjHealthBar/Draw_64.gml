@@ -1,14 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
-if (instance_exists(ObjPlayer1))
+if (instance_exists(GameManager.obj_Player))
 {
-	CurrentHP = ObjPlayer1.HP;
-	MaxHP = ObjPlayer1.MaxHP;
-} else if (instance_exists(ObjPlayer2))
-{
-	CurrentHP = ObjPlayer2.HP;
-	MaxHP = ObjPlayer2.MaxHP;
-}
+	CurrentHP = GameManager.obj_Player.HP;
+	MaxHP = GameManager.obj_Player.MaxHP;
+} 
 
 draw_sprite(HealthBarEmpty,0,x,y);
 

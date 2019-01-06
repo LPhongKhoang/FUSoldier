@@ -1,10 +1,6 @@
-if (instance_exists(ObjPlayer1)){
-	CurrentExp = ObjPlayer1.Exp;
-	MaxExp = ObjPlayer1.MaxExp;
-} else if (instance_exists(ObjPlayer2))
-{
-	CurrentExp = ObjPlayer2.Exp;
-	MaxExp = ObjPlayer2.MaxExp;
+if (instance_exists(GameManager.obj_Player)){
+	CurrentExp = GameManager.obj_Player.Exp;
+	MaxExp = GameManager.obj_Player.MaxExp;
 }
 
 draw_sprite(ExpBarEmpty,0,x,y);

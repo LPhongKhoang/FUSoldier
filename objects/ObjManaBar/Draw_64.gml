@@ -1,13 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
-if (instance_exists(ObjPlayer1)){
-	CurrentMana = ObjPlayer1.Mana;
-	MaxMana = ObjPlayer1.MaxMana;
-} else if (instance_exists(ObjPlayer2))
-{
-	CurrentMana = ObjPlayer2.Mana;
-	MaxMana = ObjPlayer2.MaxMana;
-}
+if (instance_exists(GameManager.obj_Player)){
+	CurrentMana = GameManager.obj_Player.Mana;
+	MaxMana = GameManager.obj_Player.MaxMana;
+} 
 draw_sprite(ManaBarEmpty,0,x,y);
 
 draw_sprite_ext(ManaBarFull,0,x,y,CurrentMana/MaxMana,1,0,c_white,1);
