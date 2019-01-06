@@ -1,4 +1,5 @@
-
+if (!instance_exists(ObjArrowLeft)){
+//Move in four directions when pressing arrow keys.
 var _move = 0;
 if keyboard_check(ord("A")) && place_free(x-Speed,y) 
 {
@@ -131,8 +132,10 @@ with (ObjPistol)
 if (HP <= 0) 
 {
 	HP = 0;
-	instance_destroy(ObjPistol);
-	instance_destroy();
+	//instance_destroy(ObjPistol);
+	//instance_deactivate_object(ObjPlayer1);
+	ObjPistol.visible = false;
+	ObjPlayer1.visible = false;
 }
 //check teleport
 if mouse_check_button(mb_middle)
@@ -152,4 +155,5 @@ if keyboard_check_pressed(ord("F")) && alarm[2]<0
 		Speed += INCSPEED;
 		alarm[2] = room_speed * CLOCK2;
 	}
+}
 }

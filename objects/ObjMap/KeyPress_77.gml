@@ -1,3 +1,3 @@
 /// @description Go Back
 
-room_goto(room0);
+room_goto(global.currentRoom);
