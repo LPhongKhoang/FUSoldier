@@ -8,7 +8,13 @@
         "514a2e25-7754-47a8-91b5-69fe1dd6204e",
         "5886097d-1816-43e3-8cc2-016bfc99d5bc",
         "636d6f6e-8e8f-492c-bfac-94f68288d682",
-        "72936536-e163-43e5-9217-7a0f48e39f43"
+        "72936536-e163-43e5-9217-7a0f48e39f43",
+        "da2c1b6b-7043-4741-b2ac-c2935c0ba8b4",
+        "a277b990-52ba-4964-aed9-c69b21925f01",
+        "0282c054-3d0f-4e13-8352-53d6a9f0811c",
+        "026ef0ae-1d66-4cdf-b5d8-449cefe8368a",
+        "b3dd2253-3ea5-4eb3-b52c-3c1ee0c3c490",
+        "c4cb65ed-38a9-45bf-8e9f-54ba92fbfad9"
     ],
     "filterType": "GMObject",
     "folderName": "Map",

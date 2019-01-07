@@ -15,10 +15,10 @@ menu_control = true;
 
 
 menu[0] = "Press any key to Start";
-/*if (instance_exists(ObjStartScreen))
+if (instance_exists(ObjStartScreen))
 {
 	audio_play_sound(StartScreenMusic,0,false);
 } else audio_pause_sound(StartScreen);
-*/
+
 menu_items = array_length_1d(menu);
 menu_cursor = 0;
