@@ -12,8 +12,13 @@
         "cd041ee7-e61f-450f-b266-fa7d5788fa33",
         "de9f86db-af1b-45be-a01d-7a1540d9d776",
         "77e738e9-fae8-4bb0-a834-e8c5ea374374",
-        "5200da00-7223-432f-af88-bde6c83c3bb5",
-        "fc2fdd01-258e-47c8-8338-0985ac4ba2bb"
+        "5cf199b3-2f97-4d3c-8ef0-77cbddd86a99",
+        "1b9e5f49-8b96-4d53-bfed-030a98482e84",
+        "747edce2-ad94-4dba-baed-a656f418398e",
+        "313eadac-1066-4e22-9bd4-b233d2977427",
+        "41d747e9-ae3f-4a62-adaf-0db537289836",
+        "46dca03f-5b1e-40e7-9100-d21f621bd766",
+        "0c8050a0-c335-4ad5-a0ff-61ad6cb11c43"
     ],
     "filterType": "GMSprite",
     "folderName": "map",
