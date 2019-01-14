@@ -1,5 +1,4 @@
-draw_sprite(viewTextBox,0,x,y);
-boxWid = sprite_get_width(viewTextBox);
+
 	
 var str = "";
 var Q = ObjQues;
@@ -20,5 +19,4 @@ draw_set_font(FontPixel);
 draw_set_halign(fa_left);
 draw_set_valign(fa_top);
 draw_set_color(c_white);
-stringHeight = string_height(str);
-draw_text_ext_transformed(x+16,y-32,str,stringHeight,boxWid,1,1,0);
+draw_text_transformed(x,y,str,1,1,0);

@@ -137,16 +137,6 @@ if (HP <= 0)
 	ObjPistol.visible = false;
 	ObjPlayer1.visible = false;
 }
-//check teleport
-if mouse_check_button(mb_middle)
-{
-	if (alarm[0]<0) && place_free(mouse_x,mouse_y) 
-	{
-		x = mouse_x;
-		y = mouse_y;
-		alarm[0] = room_speed * CLOCK0;
-	}
-}
 //check increase speed
 if keyboard_check_pressed(ord("F")) && alarm[2]<0
 {

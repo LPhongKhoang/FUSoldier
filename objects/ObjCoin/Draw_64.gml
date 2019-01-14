@@ -1,1 +1,1 @@
-draw_sprite(CoinLogo,0,x,y);
+draw_sprite(CoinLogo,-1,x,y);
