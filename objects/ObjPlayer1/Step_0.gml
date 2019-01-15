@@ -132,8 +132,6 @@ with (ObjPistol)
 if (HP <= 0) 
 {
 	HP = 0;
-	//instance_destroy(ObjPistol);
-	//instance_deactivate_object(ObjPlayer1);
 	ObjPistol.visible = false;
 	ObjPlayer1.visible = false;
 }
