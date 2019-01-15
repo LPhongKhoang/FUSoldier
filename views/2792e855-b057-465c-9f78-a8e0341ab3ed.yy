@@ -8,7 +8,8 @@
         "932828e1-5c6a-4f5b-81a9-1162a2ad805d",
         "e94a4a92-024d-4fd0-8f61-75919b7e206c",
         "421c32e2-6a95-43bd-b181-638b5dbbdf29",
-        "491d544d-86e7-4fde-a72a-110a12c37c73"
+        "491d544d-86e7-4fde-a72a-110a12c37c73",
+        "cd35bcf6-6f44-4854-b72d-5ec02742d5a2"
     ],
     "filterType": "GMObject",
     "folderName": "Controll",
