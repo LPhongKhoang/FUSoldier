@@ -43,6 +43,8 @@ alarm[1] = room_speed * CLOCK1;
 
 CurrentSkillIndex = 1;
 AmountSkillMax = 3;
+// quest
+_numletter = 0;
 
 
 

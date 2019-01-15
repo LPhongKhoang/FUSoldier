@@ -1,20 +1,27 @@
 enum quest 
 {
-	q_paint,
+	q_pick,
 	q_kill
 }
 
 var quest_array = 
 [
 	[
-		"Paint At TestRoom",
+		"Pick The Letter",
 		0,
-		["Paint a tree green", "Paint a tree red","Done!!! You received more exp!!!"]
+		[
+			"Some letters are in the gift box, pick them!",
+			"The last 2 letters is a secret, you have to kill all the enemy!"
+		]
 	],
 	[
 		"Kill enemy",
 		0,
-		["Kill 1 enemy", "Kill 2 enemy", "Done!!! You received more exp!!!"]
+		[
+			"Kill enemy of round 1", 
+			"Kill enemy of round 2", 
+			"Good jobs! You have picked all the letters!"
+		]
 	],
 ];
 
