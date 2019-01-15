@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "00778b1c-db28-4f6e-9832-ce603801a7d3",
+            "Value": {
+                "id": "81e6d7bf-643e-4dac-9ff1-e64d0396f3e0",
+                "resourcePath": "views\\00778b1c-db28-4f6e-9832-ce603801a7d3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "00fb862a-012d-4402-b168-fcf4dca8b9ae",
             "Value": {
                 "id": "1b87d77c-4ac7-47e3-b62d-fecd460b037f",
@@ -2079,6 +2087,14 @@
             }
         },
         {
+            "Key": "5e3f3364-1cec-426f-8c7b-025110392a3b",
+            "Value": {
+                "id": "ad2e3114-21b6-43c3-9ced-0a55a29e86f2",
+                "resourcePath": "objects\\CheckInRound2\\CheckInRound2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5f0bd933-b6a0-438b-a8cd-14e5004f334a",
             "Value": {
                 "id": "3f864801-402a-4549-9f72-48bb3ec4c9e9",
@@ -2943,11 +2959,27 @@
             }
         },
         {
+            "Key": "8cd68321-d40f-4027-8e05-1ead106ab6b5",
+            "Value": {
+                "id": "b4406e00-856b-439f-a62f-2a3ae2e2329e",
+                "resourcePath": "objects\\CheckInRound5\\CheckInRound5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8d138647-a2d8-435e-ba1f-f7f1e4b16812",
             "Value": {
                 "id": "d48153f4-0e48-4274-8498-2710f3404919",
                 "resourcePath": "views\\8d138647-a2d8-435e-ba1f-f7f1e4b16812.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8d7c2535-52a7-46f0-bf96-477c4da8583c",
+            "Value": {
+                "id": "d65ae63f-f870-48d8-b3c6-3e59750608aa",
+                "resourcePath": "objects\\ObjParPlayer\\ObjParPlayer.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -3500,6 +3532,14 @@
                 "id": "74d074e1-3d7d-4b88-8021-2c83a8293879",
                 "resourcePath": "views\\a92c874b-fce3-4e61-afc1-c62d06979829.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "aac47e8a-58ba-4a10-b458-bf4103215885",
+            "Value": {
+                "id": "6d5ec42f-2ec0-479c-85cd-febc9c6f4645",
+                "resourcePath": "objects\\CheckInRound3\\CheckInRound3.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -4060,6 +4100,14 @@
                 "id": "dd05fd04-fb6b-4f35-8ce1-356500942c1a",
                 "resourcePath": "views\\c95947ec-55ec-4107-8d63-f33b3dcebb88.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ca3f7803-ce6d-4b01-a6a0-f4636f22693b",
+            "Value": {
+                "id": "fd20852f-8202-4f31-aac6-b7d45d2109ec",
+                "resourcePath": "objects\\CheckInRound4\\CheckInRound4.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -4707,6 +4755,14 @@
             "Value": {
                 "id": "b12d0bcf-a598-43d2-a3ac-70b75ee2de24",
                 "resourcePath": "objects\\DamLogo\\DamLogo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ece893b7-3eb2-4aa4-8cb9-1e986ae8191a",
+            "Value": {
+                "id": "048b172f-8fa0-48ca-8b6d-02be2d411a59",
+                "resourcePath": "objects\\CheckInRound6\\CheckInRound6.yy",
                 "resourceType": "GMObject"
             }
         },
