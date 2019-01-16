@@ -1,4 +1,4 @@
-if (!instance_exists(ObjArrowLeft)){
+if (!instance_exists(ObjArrowLeft)  && ObjInventory.show_inventory = false){
 //Move in four directions when pressing arrow keys.
 var _move = 0;
 if keyboard_check(ord("A")) && place_free(x-Speed,y) 

@@ -711,6 +711,14 @@
             }
         },
         {
+            "Key": "2088bc38-aa46-46f3-a6c4-621c85d37709",
+            "Value": {
+                "id": "ea4ab17a-e0fd-47fd-bf8e-6c3702d98580",
+                "resourcePath": "sprites\\viewItemInventory\\viewItemInventory.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "20eccc79-469a-4dd6-9d1a-62ecff4a5f00",
             "Value": {
                 "id": "bbb06a68-00e1-44bf-9d1d-407fb653759b",
@@ -1916,6 +1924,14 @@
                 "id": "7d9e57ee-1129-428a-95c6-cdfff83740c9",
                 "resourcePath": "scripts\\Tweens\\Tweens.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "56c757ef-dae0-4ff3-934e-ae5f1ff1edb6",
+            "Value": {
+                "id": "050dab31-2c79-4222-b65d-66d35959039a",
+                "resourcePath": "objects\\ObjInventory\\ObjInventory.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -5172,6 +5188,14 @@
                 "id": "4fcf48ac-e418-4b9a-8a98-7e876eaa040a",
                 "resourcePath": "objects\\ObjTable3\\ObjTable3.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fecfa7c8-e2bc-45e1-9401-95a7bd5f222d",
+            "Value": {
+                "id": "67c43b19-eb20-46cf-a28d-83d04364dbd6",
+                "resourcePath": "sprites\\viewInventory\\viewInventory.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

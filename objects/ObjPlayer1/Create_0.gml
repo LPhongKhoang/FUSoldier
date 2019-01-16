@@ -1,5 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
+Name = "Information Assurance";
+
 XAxis = 0;
 YAxis = 0;
 
@@ -32,8 +34,8 @@ View[IDLE] = viewPlayer1_idle;
 View[MOVE] = viewPlayer1_run;
 
 //Number of Blood, Energy
-NumBlood = 0;
-NumEnergy = 0;
+NumBlood = 10;
+NumEnergy = 10;
 
 //Cooldown
 firingdelay = 0;
