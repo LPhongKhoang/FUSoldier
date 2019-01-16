@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "ObjBoss1_die",
     "eventList": [
-        
+        {
+            "id": "bb9f2c94-a685-4248-b0ac-a5e8d0da4dda",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "950aff99-f6ea-4e8c-b0fc-1e61986a76fa"
+        },
+        {
+            "id": "d834565c-8e5a-41b1-93c2-9683ff54ed7c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "950aff99-f6ea-4e8c-b0fc-1e61986a76fa"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

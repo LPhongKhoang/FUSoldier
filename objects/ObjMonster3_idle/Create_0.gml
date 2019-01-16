@@ -1,7 +1,7 @@
 TargetX = 0;
 TargetY = 0;
-Hp = 100;
-Speed = 2;
+HP = 80;
+Speed = 3;
 
 DistanceChase = 500;
 DistanceChaseInAttack =200;

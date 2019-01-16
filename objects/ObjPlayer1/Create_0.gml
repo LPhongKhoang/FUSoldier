@@ -9,7 +9,7 @@ YAxis = 0;
 Speed = 10;
 
 //Health
-MaxHP = 100;
+MaxHP = 1000;
 HP = MaxHP;
 
 //Mana
@@ -17,7 +17,7 @@ MaxMana = 100;
 Mana =20;
 
 //Damage
-Dam = 2;
+Dam = 10;
 
 //Coin
 Money = 100;

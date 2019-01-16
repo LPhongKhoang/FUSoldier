@@ -11,5 +11,6 @@ for(i =0; i<10;i++)
 		   image_xscale =0.4;
 		   image_yscale =0.4;
 		   speed = 10;
+		   image_angle = direction -90 ;
 	    } 
 	}

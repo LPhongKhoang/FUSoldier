@@ -68,7 +68,7 @@ if(instance_exists(GameManager.obj_Player))
 
 
 //Event Die
-if (Hp<=0)
+if (HP<=0)
 {
      instance_destroy();
      Room1Controll.CurrentEnemy[Room1Controll.Round] --;

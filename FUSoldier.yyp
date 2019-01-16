@@ -1359,6 +1359,14 @@
             }
         },
         {
+            "Key": "3ea5a40d-5754-484c-9a7c-04a01f8e0de7",
+            "Value": {
+                "id": "e00e42de-2059-44be-9f2f-b47a7d47e6de",
+                "resourcePath": "objects\\Explosion_BulletPistol\\Explosion_BulletPistol.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3f4679e9-3602-4e48-bc08-ed4fe96c508e",
             "Value": {
                 "id": "9cc934fb-f655-44a3-b24a-37f61ad60e4b",
@@ -2255,6 +2263,14 @@
             }
         },
         {
+            "Key": "670f5f9f-c134-4e2a-9268-1f36fab5102c",
+            "Value": {
+                "id": "50e99966-ea5a-468e-b02c-0a620340872d",
+                "resourcePath": "objects\\ObjBulletPistol_Enemy\\ObjBulletPistol_Enemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6738f1f9-b266-4619-b7c9-0cc0cbec292e",
             "Value": {
                 "id": "67c4adb7-680a-4368-bdc5-37bd35242b9b",
@@ -2475,6 +2491,14 @@
             "Value": {
                 "id": "c78afe83-6c66-432a-9de3-966324a450d4",
                 "resourcePath": "views\\72349b8b-042f-4440-bb49-62cae6f3e0b1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "727bf583-1a34-415c-947b-3858a1ad1687",
+            "Value": {
+                "id": "ad4f4eb5-3a09-4aa3-99d2-0bccb40c3dfd",
+                "resourcePath": "views\\727bf583-1a34-415c-947b-3858a1ad1687.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -3231,6 +3255,14 @@
             }
         },
         {
+            "Key": "9cccd648-5d3d-4f91-8c33-deb9d92c5651",
+            "Value": {
+                "id": "7543859b-8359-495e-bf5f-f87b073c224f",
+                "resourcePath": "views\\9cccd648-5d3d-4f91-8c33-deb9d92c5651.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "9d105e5e-54ed-4f0c-bf57-6b275644e61e",
             "Value": {
                 "id": "e0ab2233-b5bd-4d94-87d5-95f7f1c07a7c",
@@ -3890,7 +3922,7 @@
             "Key": "b9ac3458-b08c-4495-a96a-0d2e39ff1f67",
             "Value": {
                 "id": "b3830502-9e85-4efc-aa8f-6b579046ca42",
-                "resourcePath": "objects\\obj_SmallBullet\\obj_SmallBullet.yy",
+                "resourcePath": "objects\\obj_SmallBullet_Enemy\\obj_SmallBullet_Enemy.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -4103,6 +4135,14 @@
             }
         },
         {
+            "Key": "c88263a9-c6d8-425b-af47-ecb0545e98ff",
+            "Value": {
+                "id": "e075ed5d-1c32-4818-9ae6-1839944b96de",
+                "resourcePath": "objects\\obj_SmallBullet\\obj_SmallBullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c8c6fdbe-8e71-4bee-8cdf-9a4b2936b964",
             "Value": {
                 "id": "02932fed-91e8-4768-9d93-a84383ebf119",
@@ -4148,6 +4188,14 @@
                 "id": "ff496948-c93c-4684-8cb1-94a2651c1880",
                 "resourcePath": "scripts\\EaseLinear\\EaseLinear.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "cbefa1d6-5a8b-4924-8dfc-15f4275673a7",
+            "Value": {
+                "id": "6d17de39-c86d-4003-be18-fe38d637f10f",
+                "resourcePath": "sprites\\ExplossionSkillBot\\ExplossionSkillBot.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -4527,6 +4575,14 @@
             }
         },
         {
+            "Key": "df1fbbbd-a7b9-464c-93f5-bf5149477390",
+            "Value": {
+                "id": "8fb89b46-5dbe-4ee0-9559-d6425f8fe49f",
+                "resourcePath": "objects\\obj_Skill1_Enemy\\obj_Skill1_Enemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "df28db4b-b9cc-4067-aa19-d65b8c1c6bcc",
             "Value": {
                 "id": "c1aba26c-a727-4edd-8c7f-cd7dd9426ace",
@@ -4759,14 +4815,6 @@
             }
         },
         {
-            "Key": "ec0a4ebd-835e-4dc7-b24e-02a1c0d18c70",
-            "Value": {
-                "id": "6cf1ce5f-ad10-4678-8582-3963fc8f49a4",
-                "resourcePath": "objects\\ObjBulletPistol_Enemy\\ObjBulletPistol_Enemy.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "eccce154-ae0c-41a8-b233-0f2f48fe25f9",
             "Value": {
                 "id": "b12d0bcf-a598-43d2-a3ac-70b75ee2de24",
@@ -4780,6 +4828,14 @@
                 "id": "048b172f-8fa0-48ca-8b6d-02be2d411a59",
                 "resourcePath": "objects\\CheckInRound6\\CheckInRound6.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ed3a4f71-190f-43a3-afad-11c3864681a4",
+            "Value": {
+                "id": "eded5e1a-a024-4205-a398-cdedc90de8c2",
+                "resourcePath": "sprites\\Skill2\\Skill2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -4991,6 +5047,14 @@
             }
         },
         {
+            "Key": "f67ad348-9b54-4f62-85e6-49c74626b8b0",
+            "Value": {
+                "id": "a1f81dd1-021a-42dd-befb-9361a326df26",
+                "resourcePath": "sprites\\Explosion_PistolBullet1\\Explosion_PistolBullet1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f67fe598-b0ef-4397-ac20-e45d6a10bb46",
             "Value": {
                 "id": "01cdc9f5-022e-4b59-b984-e042d6339043",
@@ -5084,6 +5148,14 @@
                 "id": "61476007-a7d3-4e7b-8b32-40448ef96763",
                 "resourcePath": "scripts\\TGMS_BuildDefaultProperties\\TGMS_BuildDefaultProperties.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "fa7f729f-ac4b-4de2-9428-e07b6bafc21a",
+            "Value": {
+                "id": "d9f3dfd0-2015-4d94-a52d-0c157688d89d",
+                "resourcePath": "sprites\\Skill1_Boss\\Skill1_Boss.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

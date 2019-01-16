@@ -2,7 +2,7 @@ var Skill = argument[0];
 
 with(other)
 {
-	Hp -= Skill.Dam;
+	HP -= Skill.Dam;
 
 
 }

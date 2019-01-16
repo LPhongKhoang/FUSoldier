@@ -14,7 +14,7 @@ if(instance_exists(GameManager.obj_Player))
 	if(alarm[1] <=0)
 	{
 		CanFire = true;
-		alarm[1] = 30;
+		alarm[1] = 40;
 	
 
 	}
@@ -40,7 +40,7 @@ if(instance_exists(GameManager.obj_Player))
 			sprite_index = viewMonster2_idle;
 			if(CheckPosition<=0) image_xscale = 1;
 			else image_xscale = -1;
-			bullet = instance_create_depth(x,y,0,ObjBulletPistol_Enemy)
+			bullet = instance_create_depth(x,y,1,ObjBulletPistol_Enemy)
 			with(bullet)
 			{
 				direction = point_direction(x,y,GameManager.obj_Player.x,GameManager.obj_Player.y) + random_range(-1,1)*15; 
@@ -52,7 +52,7 @@ if(instance_exists(GameManager.obj_Player))
 }
 
 //Event Die
-if (Hp<=0)
+if (HP<=0)
 {
      instance_destroy();
      Room1Controll.CurrentEnemy[Room1Controll.Round] --;
