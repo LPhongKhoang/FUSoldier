@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "ObjEnergy",
     "eventList": [
-        
+        {
+            "id": "cb387aa4-7065-4faa-a2bf-61f886b154fd",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 64,
+            "eventtype": 8,
+            "m_owner": "b6facb6f-10b5-409d-b257-346a552775db"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "b11f9358-792e-48c0-a788-559908bb719e",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

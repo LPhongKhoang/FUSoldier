@@ -5,16 +5,6 @@
     "name": "ObjManaBar",
     "eventList": [
         {
-            "id": "554334bc-6a10-43d3-9e31-11f9b094fe3f",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "9fa17d84-acbf-4db1-8571-3d23baf586dc"
-        },
-        {
             "id": "f466625e-e4ce-460b-a135-5235bd14b1e6",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -22,6 +12,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
+            "m_owner": "9fa17d84-acbf-4db1-8571-3d23baf586dc"
+        },
+        {
+            "id": "63a9c1b9-1e5f-490e-99ac-86f35c77c31e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 64,
+            "eventtype": 8,
             "m_owner": "9fa17d84-acbf-4db1-8571-3d23baf586dc"
         }
     ],

@@ -1,0 +1,1 @@
+CurrentNum = 0;

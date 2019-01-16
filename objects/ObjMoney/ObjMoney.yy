@@ -5,16 +5,6 @@
     "name": "ObjMoney",
     "eventList": [
         {
-            "id": "38ef7b67-5b2f-46d8-889c-deb174aeb1e9",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "d0899df7-3a3b-48ac-9f2e-94786487c4ba"
-        },
-        {
             "id": "b4acb1d0-2c00-499b-a829-ae6ad3aae8b9",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -22,6 +12,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
+            "m_owner": "d0899df7-3a3b-48ac-9f2e-94786487c4ba"
+        },
+        {
+            "id": "b1eaa53d-dc42-45f6-85bf-1c2b8b38842f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 64,
+            "eventtype": 8,
             "m_owner": "d0899df7-3a3b-48ac-9f2e-94786487c4ba"
         }
     ],
