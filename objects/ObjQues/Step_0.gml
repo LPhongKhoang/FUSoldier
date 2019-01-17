@@ -36,7 +36,6 @@ var i=0; repeat (ds_quests_num)
 					if (Room1Controll.TotalEnemyAlive[ROUND1]<=0) 
 					{
 						_grid[# 1,i]++;
-						// do with "J"
 					}
 				}
 				break;
@@ -45,13 +44,40 @@ var i=0; repeat (ds_quests_num)
 					if (Room1Controll.TotalEnemyAlive[ROUND2]<=0)  
 					{
 						_grid[# 1,i]++;
-						// do with "S"
+					}
+				}
+				case 2: //kill
+				{
+					if (Room1Controll.TotalEnemyAlive[ROUND3]<=0)  
+					{
+						_grid[# 1,i]++;
+					}
+				}
+				case 3: //kill
+				{
+					if (Room1Controll.TotalEnemyAlive[ROUND4]<=0)  
+					{
+						_grid[# 1,i]++;
+					}
+				}
+				case 4: //kill
+				{
+					if (Room1Controll.TotalEnemyAlive[ROUND5]<=0)  
+					{
+						_grid[# 1,i]++;
+					}
+				}
+				case 5: //kill
+				{
+					if (Room1Controll.TotalEnemyAlive[ROUND6]<=0)  
+					{
+						_grid[# 1,i]++;
 					}
 				}
 				break;
-				case 2:
+				case 6:
 				{
-					ObjPlayer1.Exp++;
+					_donequest = 1;
 				}
 				break;
 			}

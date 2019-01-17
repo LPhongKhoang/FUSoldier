@@ -1,16 +1,15 @@
-/// @description Insert description here
-// You can write your code in this editor
-if (CurrentExp >= MaxExp)
+
+if (instance_exists(GameManager.obj_Player))
 {
-	var _CurrentObject = pointer_null;
-	if (instance_exists(ObjPlayer1))
-	{
-		_CurrentObject = ObjPlayer1;	
-	} else if (instance_exists(ObjPlayer2))
-	{
-		_CurrentObject = ObjPlayer2;
-	}
-	_CurrentObject.Level += 1;
-	CurrentExp -= MaxExp;
-	MaxExp *= 2;
-}
+	 CurrentExp = GameManager.obj_Player.Exp;
+	 MaxExp = GameManager.obj_Player.MaxExp;
+	if (GameManager.obj_Player.Exp >= GameManager.obj_Player.MaxExp)
+    {
+		GameManager.obj_Player.Level += 1;
+		GameManager.obj_Player.Exp -= GameManager.obj_Player.MaxExp;
+
+		GameManager.obj_Player.HP += 20;
+		GameManager.obj_Player.Mana +=10;
+		GameManager.obj_Player.CanUpLevelSkill = true;
+    }	
+} 

@@ -47,6 +47,15 @@ if(instance_exists(GameManager.obj_Player))
 	}
 }
 
+if(instance_exists(Explosion_Bomb))
+{
+	var DistanceToBomb = point_distance(x,y,Explosion_Bomb.x,Explosion_Bomb.y)
+	if(DistanceToBomb<Explosion_Bomb.Range)
+	{
+		HP -= Explosion_Bomb.Dam ;
+	}
+}
+
 //Event Die
 if (HP<=0)
 {

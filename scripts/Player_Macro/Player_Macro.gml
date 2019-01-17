@@ -14,4 +14,4 @@
 #macro CLOCK1 5
 #macro CLOCK2 5
 //number of speed which can be increased
-#macro INCSPEED 20
+#macro INCSPEED 10

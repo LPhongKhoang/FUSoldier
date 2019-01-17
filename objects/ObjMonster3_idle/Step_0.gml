@@ -65,15 +65,19 @@ if(instance_exists(GameManager.obj_Player))
 	}
 }
 
-
-
+if(instance_exists(Explosion_Bomb))
+{
+	if(distance_to_object(Explosion_Bomb)<Explosion_Bomb.Range)
+	{
+		HP -= Explosion_Bomb.Dam ;
+	}
+}
 //Event Die
 if (HP<=0)
-{
-     instance_destroy();
+{ 
      Room1Controll.CurrentEnemy[Room1Controll.Round] --;
 	 Room1Controll.TotalEnemyAlive[Room1Controll.Round] --;
 	 GameManager.obj_Player.Exp += 100;
 	 GameManager.obj_Player.Money += 10;	
-	    
+	 instance_destroy();  
 }

@@ -26,6 +26,10 @@ Money = 100;
 Level = 1;
 Exp = 600;
 MaxExp = 1000;
+LevelSkill[1] = 1;
+LevelSkill[2] = 1;
+LevelSkill[3] = 1;
+CanUpLevelSkill = false;
 
 //Move
 Action = IDLE;
@@ -47,6 +51,7 @@ CurrentSkillIndex = 1;
 AmountSkillMax = 3;
 // quest
 _numletter = 0;
+AmountBulletSkill1 =3;
 
 
 

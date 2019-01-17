@@ -14,7 +14,8 @@
         "2daa72a7-3b61-4e53-862d-9fdbe2a870ae",
         "4c28b5ec-87be-4511-97b4-2253e555f17d",
         "2148baee-6c12-4f6c-a415-c58490ad3caf",
-        "fbea8cae-bc46-4b71-ad84-b614b0b86167"
+        "fbea8cae-bc46-4b71-ad84-b614b0b86167",
+        "89e8dc7f-88b2-485f-9897-74f0c5f36059"
     ],
     "filterType": "GMSprite",
     "folderName": "viewQuests",

@@ -50,27 +50,20 @@ if (mouse_check_button(mb_right)) && (firingdelay < 0)
 		Mana -= SKILL2;
 	    recoil = 4;
 	    firingdelay = 5;
-	    bullet = instance_create_layer(ObjPistol.x,ObjPistol.y,"Bullets",ObjBulletPistol);
-	    with (bullet)
-	    {
-		    direction = ObjPistol.image_angle ;
-		    Dam += ObjPlayer1.Dam + ObjPistol.Dam;
-			image_angle = direction -90 ;
-	    }
-	    bullet = instance_create_layer(ObjPistol.x,ObjPistol.y,"Bullets",ObjBulletPistol);
-	    with (bullet)
-	    {
-		    direction = ObjPistol.image_angle +15;
-		    Dam += ObjPlayer1.Dam + ObjPistol.Dam;
-			image_angle = direction -90 ;
-	    }
-	     bullet = instance_create_layer(ObjPistol.x,ObjPistol.y,"Bullets",ObjBulletPistol);
-	    with (bullet)
-	    {
-		    direction = ObjPistol.image_angle -15;
-		    Dam += ObjPlayer1.Dam + ObjPistol.Dam;
-			image_angle = direction -90 ;
-	    }
+		var dir = ObjPistol.image_angle - 20*(AmountBulletSkill1-1 )/2
+		repeat(AmountBulletSkill1)
+		{
+			bullet = instance_create_layer(ObjPistol.x,ObjPistol.y,"Bullets",ObjBulletPistol);
+			with (bullet)
+		    {
+			    direction = dir ;
+			    Dam += ObjPlayer1.Dam + ObjPistol.Dam;
+				image_angle = direction -90 ;
+		    }
+			dir += 20*(AmountBulletSkill1-1 )/AmountBulletSkill1 
+		    		  
+		}
+	    
 	}
 	if(SKILL3 < Mana && CurrentSkillIndex ==2)
 	{

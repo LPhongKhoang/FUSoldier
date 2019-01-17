@@ -12,7 +12,7 @@ MaxEnemy[MONSTER2,ROUND1]=0;
 MaxEnemy[MONSTER3,ROUND1]=0;
 MaxEnemy[MONSTER4,ROUND1]=0;
 MaxEnemy[MONSTER5,ROUND1]=0;
-TotalEnemyAlive[ROUND1] =2; 
+TotalEnemyAlive[ROUND1] =15; 
 CurrentEnemy[ROUND1]=0;
 MaxEnemyInRound[ROUND1] = 5;
 //Round2
@@ -21,7 +21,7 @@ MaxEnemy[MONSTER2,ROUND2]=4;
 MaxEnemy[MONSTER3,ROUND2]=0;
 MaxEnemy[MONSTER4,ROUND2]=0;
 MaxEnemy[MONSTER5,ROUND2]=0;
-TotalEnemyAlive[ROUND2] =4; 
+TotalEnemyAlive[ROUND2] =14; 
 CurrentEnemy[ROUND2]=0;
 MaxEnemyInRound[ROUND2] = 5;
 //Round3

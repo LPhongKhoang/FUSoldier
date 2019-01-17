@@ -137,6 +137,13 @@ if(CurrentSkillRanged >=3)
 {
 	CurrentSkillRanged =1;
 }
+if(instance_exists(Explosion_Bomb))
+{
+	if(distance_to_object(Explosion_Bomb)<Explosion_Bomb.Range)
+	{
+		HP -= Explosion_Bomb.Dam ;
+	}
+}
 //Event Die
 if (HP<=0)
 {

@@ -11,6 +11,7 @@
         "751ea0a9-9b78-47a4-b325-1592796a5c9e",
         "1aacc8b1-ffbb-4602-ba8e-2bc29dc77465",
         "dd7de10a-c7cb-40d2-b0dd-11b554b4156f",
+        "29a9072a-3389-4493-8c1f-e200f3294048",
         "58b6652d-c715-409b-996d-a43603ac00db",
         "48cb598f-269e-44db-97a3-1e9c2a055604",
         "1078e1a2-439b-4544-8fcf-36a7d9f6e334",
@@ -23,7 +24,9 @@
         "bcbef7c9-767b-4fbb-a7e2-b5eb22f91c4e",
         "0c1f5340-b1d2-4816-a9d4-b951f4dfcc7a",
         "e69808fe-83a7-4069-a2bb-3c12842b03bb",
-        "44f60150-5cb0-4a1c-b035-25acc42003bb"
+        "44f60150-5cb0-4a1c-b035-25acc42003bb",
+        "470d7473-fdac-4299-bc18-437ca9ca8a03",
+        "f03fe9bb-a7d5-4307-9728-b5cc2e4c4576"
     ],
     "filterType": "GMObject",
     "folderName": "Quest",

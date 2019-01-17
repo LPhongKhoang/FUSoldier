@@ -1,4 +1,4 @@
 XStart = x;
 YStart = y;
-MaxDistance = 100;
+MaxDistance = 500;
 Dam = 10;
