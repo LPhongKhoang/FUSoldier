@@ -29,7 +29,7 @@ MaxExp = 1000;
 LevelSkill[1] = 1;
 LevelSkill[2] = 1;
 LevelSkill[3] = 1;
-CanUpLevelSkill = false;
+CanUpLevelSkill = 0;
 
 //Move
 Action = IDLE;

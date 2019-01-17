@@ -10,6 +10,6 @@ if (instance_exists(GameManager.obj_Player))
 
 		GameManager.obj_Player.HP += 20;
 		GameManager.obj_Player.Mana +=10;
-		GameManager.obj_Player.CanUpLevelSkill = true;
+		GameManager.obj_Player.CanUpLevelSkill++;
     }	
 } 
