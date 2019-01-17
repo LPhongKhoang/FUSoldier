@@ -1287,10 +1287,26 @@
             }
         },
         {
+            "Key": "399060dd-a885-48ca-917f-4f5bac79eaeb",
+            "Value": {
+                "id": "c2bee3c8-8713-4676-b7b7-1b3bc7ac6ce2",
+                "resourcePath": "sounds\\Gunshot\\Gunshot.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "39e7246a-02db-49c5-8ae7-e7404bbf5ce9",
             "Value": {
                 "id": "34362fef-92a5-470d-a511-7ed98015c7b8",
                 "resourcePath": "objects\\ObjLevel\\ObjLevel.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "39f8ca28-cbb6-4462-9fa8-3a8e0c29d20b",
+            "Value": {
+                "id": "9b1897bc-5cc5-473a-a5d1-1e8f8e7bfb90",
+                "resourcePath": "objects\\ObjMusicPlayer\\ObjMusicPlayer.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -2799,6 +2815,14 @@
             }
         },
         {
+            "Key": "818a069d-dead-4a84-9336-99edcc2a3e98",
+            "Value": {
+                "id": "2fc6afba-26f5-4add-9c0b-14d1f52adb4f",
+                "resourcePath": "sounds\\EnemyDeathSound\\EnemyDeathSound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "824d58a9-6e23-4c7d-9f95-ce9c5f638890",
             "Value": {
                 "id": "f0f9637b-18ea-41c1-8c64-f54589090d2b",
@@ -3324,6 +3348,14 @@
                 "id": "2bfd134f-e30d-4f29-894e-822bc30b12aa",
                 "resourcePath": "scripts\\TweenStep\\TweenStep.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "9c3297dd-d627-4b2c-91fe-e21ee2060aa9",
+            "Value": {
+                "id": "c5fb2d3b-e9aa-4027-a208-a446a683c581",
+                "resourcePath": "sounds\\LevelUpSound\\LevelUpSound.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -4604,6 +4636,14 @@
                 "id": "814119e2-ec94-4880-9926-c0a780081b16",
                 "resourcePath": "scripts\\TweenEasyFade\\TweenEasyFade.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "dd013990-269e-419f-afaf-9539f6201396",
+            "Value": {
+                "id": "0e438463-0b52-4403-ad7f-927b9ea24bd8",
+                "resourcePath": "sounds\\GameplayMusic\\GameplayMusic.yy",
+                "resourceType": "GMSound"
             }
         },
         {

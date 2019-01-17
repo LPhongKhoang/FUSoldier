@@ -41,10 +41,14 @@ if (mouse_check_button(mb_left)) && (firingdelay < 0) && (Mana>=SKILL1)
 		Dam += ObjPlayer1.Dam + ObjPistol.Dam;
 		image_angle = direction -90 ;
 	}
+	gunshot = audio_play_sound(Gunshot, 0, false);
+	audio_sound_pitch(gunshot, random_range(0.75, 1.25));
 }
 //skill2
 if (mouse_check_button(mb_right)) && (firingdelay < 0) 
 {
+	gunshot = audio_play_sound(Gunshot, 0, false);
+	audio_sound_pitch(gunshot, random_range(0.75, 1.25));
 	if((Mana>=SKILL2) && CurrentSkillIndex == 1)
 	{
 		Mana -= SKILL2;
