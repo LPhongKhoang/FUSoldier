@@ -18,7 +18,7 @@ var i=0; repeat (ds_quests_num)
 				break;
 				case 1: //done
 				{
-					//
+					_donequest2=1;
 				}
 				break;
 			}

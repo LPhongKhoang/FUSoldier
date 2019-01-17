@@ -130,10 +130,12 @@ if (HP <= 0)
 	HP = 0;
 	ObjPistol.visible = false;
 	ObjPlayer1.visible = false;
+	room_goto(GameOver);
 }
 //check increase speed
-if keyboard_check_pressed(ord("F")) && alarm[2]<0
+if CanSpeedUp && alarm[2]<0
 {
+	CanSpeedUp = false;
 	if (alarm[1]<0)
 	{
 		Speed += INCSPEED;

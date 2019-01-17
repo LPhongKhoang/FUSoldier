@@ -52,6 +52,7 @@ AmountSkillMax = 3;
 // quest
 _numletter = 0;
 AmountBulletSkill1 =3;
+CanSpeedUp = false;
 
 
 

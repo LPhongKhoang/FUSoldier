@@ -80,5 +80,5 @@ if(TotalEnemyAlive[ROUND5]<=0)
 }
 if(TotalEnemyAlive[ROUND6]<=0)
 {
-	//win;
+	instance_deactivate_layer("Block12");
 }

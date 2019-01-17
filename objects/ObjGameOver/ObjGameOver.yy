@@ -1,21 +1,31 @@
 {
-    "id": "aac47e8a-58ba-4a10-b458-bf4103215885",
+    "id": "9b6a3a14-fb6e-40f3-a53e-a11c80adec45",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "CheckInRound3",
+    "name": "ObjGameOver",
     "eventList": [
         {
-            "id": "b7aa4b6b-25aa-4a04-a7ef-1fff5c158be6",
+            "id": "93931e73-18eb-4e96-b6cd-d452f1f05ae0",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "8d7c2535-52a7-46f0-bf96-477c4da8583c",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "aac47e8a-58ba-4a10-b458-bf4103215885"
+            "eventtype": 8,
+            "m_owner": "9b6a3a14-fb6e-40f3-a53e-a11c80adec45"
+        },
+        {
+            "id": "51b40e5c-42a7-4351-af54-257d32a41bc4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 32,
+            "eventtype": 9,
+            "m_owner": "9b6a3a14-fb6e-40f3-a53e-a11c80adec45"
         }
     ],
-    "maskSpriteId": "e76c8b0a-d052-4a08-8766-2d360d9c559c",
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,

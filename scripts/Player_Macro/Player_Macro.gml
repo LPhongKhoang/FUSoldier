@@ -10,8 +10,8 @@
 
 #macro TELEPORT 0
 //Time Countdown
-#macro CLOCK0 5
-#macro CLOCK1 5
-#macro CLOCK2 5
+#macro CLOCK0 3
+#macro CLOCK1 3
+#macro CLOCK2 3
 //number of speed which can be increased
-#macro INCSPEED 10
+#macro INCSPEED 7

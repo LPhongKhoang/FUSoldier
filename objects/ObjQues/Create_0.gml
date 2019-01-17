@@ -34,3 +34,4 @@ ds_quests_num = ds_grid_height(ds_quests);
 myTextBox = noone;
 //done
 _donequest = 0;
+_donequest2 = 0;
